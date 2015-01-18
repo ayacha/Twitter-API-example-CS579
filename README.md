@@ -1,8 +1,3 @@
-## Assignment 1
-
-**50 points**  
-**Due 9/8, before class**
-
 # Setup
 
 1. Learn Python by complete the online Python training course at <http://www.codecademy.com/tracks/python>.
